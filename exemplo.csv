@@ -1,0 +1,14 @@
+﻿Data;login_colaborador;nome_colaborador;categoria_profissional;segmento;operacao;departamento;segmento_processado_codigo;codigo_nivel_2;Contagem_ID;DtActivacao;DtDesactivacao;Activo?
+01/01/2024 00:00;4718;Abdoulaye Simão;ASSISTENTE DE CALL CENTER;TAAG_Canais digitais;TAAG;Direcção de Negócio;TrabNPago;Presença;2;15/12/2012;30/12/2999;Não
+01/01/2024 00:00;4718;Abdoulaye Simão;ASSISTENTE DE CALL CENTER;TAAG_Canais digitais;TAAG;Direcção de Negócio;TrabPago;Presença;2;15/12/2012;30/12/2999;Não
+01/01/2024 00:00;10438;Abdulay Calombo Ibrahima Aw;ASSISTENTE DE CONTACT CENTER (N3);TAAG;TAAG;Direcção de Negócio;TrabPago;Presença;2;20/10/2023;23/01/2024;Sim
+01/01/2024 00:00;10438;Abdulay Calombo Ibrahima Aw;ASSISTENTE DE CONTACT CENTER (N3);TAAG;TAAG;Direcção de Negócio;TrabNPago;Presença;2;20/10/2023;23/01/2024;Sim
+01/01/2024 00:00;09379;Abel Chipongue Fernando dos Santos;ASSISTENTE DE CONTACT CENTER (N1);ZAP_DTH;ZAP_DTH;Direcção de Negócio;TrabNPago;Presença;2;01/06/2021;19/07/2024;Sim
+01/01/2024 00:00;09379;Abel Chipongue Fernando dos Santos;ASSISTENTE DE CONTACT CENTER (N1);ZAP_DTH;ZAP_DTH;Direcção de Negócio;TrabPago;Presença;2;01/06/2021;19/07/2024;Sim
+01/01/2024 00:00;09634;Abílio da Costa Kandumbo;ASSISTENTE DE CONTACT CENTER (N2);Zap Fibra;ZAP Fibra;Direcção de Negócio;TrabPago;Presença;2;01/04/2022;30/11/2025;Não
+01/01/2024 00:00;09634;Abílio da Costa Kandumbo;ASSISTENTE DE CONTACT CENTER (N2);Zap Fibra;ZAP Fibra;Direcção de Negócio;TrabNPago;Presença;2;01/04/2022;30/11/2025;Não
+01/01/2024 00:00;10283;Abílio Ngombo Babriel Cadete;ASSISTENTE DE CONTACT CENTER (N3);TAAG;TAAG;Direcção de Negócio;TrabPago;Presença;2;15/08/2023;14/11/2025;Não
+01/01/2024 00:00;10283;Abílio Ngombo Babriel Cadete;ASSISTENTE DE CONTACT CENTER (N3);TAAG;TAAG;Direcção de Negócio;TrabNPago;Presença;2;15/08/2023;14/11/2025;Não
+01/01/2024 00:00;10554;Abílio Salamau dos Anjos José;ASSISTENTE DE CONTACT CENTER (N3);TAAG_Inbound - Geral;TAAG;Direcção de Negócio;TrabNPago;Presença;2;05/12/2023;04/11/2025;Não
+01/01/2024 00:00;10554;Abílio Salamau dos Anjos José;ASSISTENTE DE CONTACT CENTER (N3);TAAG_Inbound - Geral;TAAG;Direcção de Negócio;TrabPago;Presença;2;05/12/2023;04/11/2025;Não
+01/01/2024 00:00;10237;Abiu Eduardo Abraão;ASSISTENTE DE CONTACT CENTER (N1);ZAP_DTH;ZAP_DTH;Direcção de Negócio;TrabNPago;Presença;2;10/07/2023;09/11/2025;Não
